@@ -1,1 +1,5 @@
-# maria-bakhareva-portfolio
+# Сайт Марии Бахаревой
+
+Публичный профессиональный сайт специалиста по CAD/CAM и цифровой стоматологии.
+
+Контакты: [Marfusha0694@gmail.com](mailto:Marfusha0694@gmail.com), +7 982 728-95-98.
